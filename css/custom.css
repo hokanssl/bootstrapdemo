@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+
+
+
+body { background-color: #f4f4f4; }
+
+a, a:hover { color: orange; }
+
+
+
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    background-color: orange;
+	
+}
+
+.nav-item:hover {
+	background-color: #e2e2e2;
+}
+
+.gray {
+	background-color: #e2e2e2;
+}
